@@ -1,0 +1,42 @@
+{
+  "name": "abyss_pictures",
+  "description": "适用于Sub-Store的自定义机场图标库",
+  "icons": [
+    {
+      "name": "CM",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/CM.png"
+    },
+    {
+      "name": "FuliFuli",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/FuliFuli.png"
+    },
+    {
+      "name": "Pithecia",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/Pithecia.png"
+    },
+    {
+      "name": "lily",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/lily.png"
+    },
+    {
+      "name": "五叶分享",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/五叶分享.png"
+    },
+    {
+      "name": "五星上将",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/五星上将.png"
+    },
+    {
+      "name": "十元一年",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/十元一年.png"
+    },
+    {
+      "name": "折腾啥",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/折腾啥.png"
+    },
+    {
+      "name": "枫丹航空",
+      "url": "https://raw.githubusercontent.com/2635007405/abyss-pictures/图片/枫丹航空.png"
+    }
+  ]
+}
